@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm Ivanov Ivan, at the moment I'm 2nd year studentof MIPT (Moscow Institute of Physics and Technology)! Here you can see some of my projects:
+I'm Ivanov Ivan, at the moment I'm 3nd year student of MIPT (Moscow Institute of Physics and Technology)! Here you can see some of my projects:
 
 ### What I'm currently learning:
 
